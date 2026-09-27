@@ -44,8 +44,6 @@ The dashboard provides insights into revenue, orders, delivery performance, cust
 - Some product categories recorded higher delays and lower ratings.
 
 ## Files
-
-- `NexusGoods_PowerBI_Dashboard.pbix` – Power BI dashboard
 - `NexusGoods_Project_Presentation.pptx` – Project explanation
 - `dashboard_overview.png` – Dashboard preview
 
